@@ -11,7 +11,7 @@ feature importances in random forests.
 
 setup(
     name='rfpimp',
-    version='1.3.1',
+    version='1.3.1+git.0edef31',
     url='https://github.com/parrt/random-forest-importances',
     license='MIT',
     py_modules=['rfpimp'],
